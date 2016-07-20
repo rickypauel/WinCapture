@@ -1,0 +1,4 @@
+C:\Users\Ricardo Bello\Documents\Visual Studio 2010\Projects\WinCapture\WinCapture\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Ricardo Bello\Documents\Visual Studio 2010\Projects\WinCapture\WinCapture\obj\x86\Release\WindowsFormsApplication1.FrmInfo.resources
+C:\Users\Ricardo Bello\Documents\Visual Studio 2010\Projects\WinCapture\WinCapture\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ricardo Bello\Documents\Visual Studio 2010\Projects\WinCapture\WinCapture\obj\x86\Release\WinCapture.csproj.GenerateResource.Cache
